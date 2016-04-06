@@ -1,7 +1,7 @@
 name: tolac
 favicon: null
-layout_spectrum: 0.6044408362358809
-typography_spectrum: 0.09509688336402178
+layout_spectrum: 0.87906
+typography_spectrum: 0.7708
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6890089348889887
+  brandStrength: 0.75
   lightness: 0.6125210633035749
   saturation: 0.8946972929406911
   rhythmicContrast: 0.3181000095792115
